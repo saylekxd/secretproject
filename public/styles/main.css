@@ -115,3 +115,12 @@ a {
   font-size: 24px;
   font-family: "Titan One", cursive;
 }
+
+#next {
+  width: 6rem;
+  height: auto;
+}
+
+#next:hover {
+  background-color: #5ddcff;
+}
